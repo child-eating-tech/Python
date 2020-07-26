@@ -1,4 +1,4 @@
-	# The objective of this GitHub Action is to update the DIRECTORY.md file (if needed)
+# The objective of this GitHub Action is to update the DIRECTORY.md file (if needed)
 # when doing a git push
 name: directory_writer
 on: [push]
