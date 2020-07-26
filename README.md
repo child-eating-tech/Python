@@ -2,6 +2,6 @@
 ## 证书
 MIT
 ## 目录
-你可以看我们的dictionary.md
+你可以看我们的directory.md
 ## 欢迎加入😊
 你可以帮我们找出错误和不足
